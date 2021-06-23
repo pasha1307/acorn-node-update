@@ -1,4 +1,5 @@
-# (in progress) Demo for the Checklist fullstack app (react + aws) Serverless Integration
+# Demo for the Checklist fullstack app (react + aws) Serverless Integration
+### work in progress
 
 ## Auth
 integrated with Cognito Pull
@@ -11,5 +12,6 @@ GraphQL and AmplifyGraphQL
 
 ## Deployed at S3 and Cloud Formation
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Access App: https://d20uiyqozgrqo1.cloudfront.net/ to view. 
+### Open Demo: username: apiuser; demo pword: apipassword
 
