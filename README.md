@@ -6,10 +6,10 @@ Cognito Pull
 DynamoDB
 ### API
 GraphQL and AmplifyGraphQL
-## Deployed
-at S3 and Cloud Formation
+## Deployment
+S3 and Cloud Formation
 ## Access App
 https://d20uiyqozgrqo1.cloudfront.net/ to view. 
-### Open Demo: username: apiuser; demo pword: apipassword
+### Open Demo: L: apiuser P: apipassword
 
-## Currently work in progress 
+## ( Currently work in progress )
