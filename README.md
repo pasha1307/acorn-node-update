@@ -8,8 +8,4 @@ DynamoDB
 GraphQL and AmplifyGraphQL
 ## Deployment
 S3 and Cloud Formation
-## Access App
-https://d20uiyqozgrqo1.cloudfront.net/ to view. 
-### Open Demo: L: apiuser P: apipassword
-
 ## ( Currently work in progress )
